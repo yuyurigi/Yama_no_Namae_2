@@ -1,0 +1,100 @@
+1	Everest
+2	Kangchenjunga
+3	Kumbhakarna
+4	Makalu
+5	Lhotse
+6	Pumori
+7	Gyachung Kang
+8	Cho Oyu
+9	Dorge Lhakpa
+10	Chamlang
+11	Gauri Sankar
+12	Ama Dablam
+13	Langtang Lirung
+14	Manaslu
+15	Himalchuli
+16	Annapurna I
+17	Machhapuchhare
+18	Annapurna II
+19	Dhaulagiri
+20	Api
+21	McKinley
+22	Foraker
+23	Assiniboine
+24	Logan
+25	Robson
+26	Paine Grande
+27	Fitz Roy
+28	Aconcagua
+29	Salcantay
+30	SaYerupajá
+31	Huascarán
+32	Huandoy
+33	Chacraraju
+34	Santa Cruz
+35	Alpamayo
+36	Cotopaxi
+37	Chimborazo
+38	K2
+39	Muztagh Tower
+40	Broad Peak
+41	Gasherbrum I
+42	Gasherbrum II
+43	Gasherbrum IV
+44	Masherbrum
+45	Chogolisa
+46	Saltoro Kangri
+47	Baintha Brakk
+48	Distaghil Sar
+49	Trivor
+50	Khinyang Chhish
+51	Rakaposhi
+52	Spantik
+53	Malubiting
+54	Haramosh Peak
+55	Batura I
+56	Tirich Mir
+57	Nanga Parbat
+58	Blanc
+59	Grandes Jorasses
+60	Eiger
+61	Weisshorn
+62	Matterhorn
+63	Kilimanjaro
+64	Rwenzori Mountains
+65	Kenya
+66	Sinai
+67	Ararat
+68	Damavand
+69	Nanda Devi
+70	Nilkantha
+71	Shivling
+72	Satopanth
+73	Kamet
+74	Saser Kangri I
+75	Mamostong Kangri I
+76	Rimo I
+77	Siniolchu
+78	Muztagh Ata
+79	Menlungtse
+80	Namunami Feng
+81	Kangrinboqê Feng
+82	Shishapangma
+83	Chomolhari
+84	Kula Kangri
+85	Gyala Peri
+86	Namcha Barwa
+87	Minya Konka
+88	Gangkhar Puenzum
+89	Jichudrake
+90	Pik Kommunizma
+91	Pik Lenina
+92	Khan Tengri
+93	Pik Pobedy
+94	Ushba
+95	Elbrus
+96	Carstensz Pyramid
+97	Cook
+98	Paektu
+99	Vinson Massif
+100	Fujisan
